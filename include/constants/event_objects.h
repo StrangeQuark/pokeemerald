@@ -304,9 +304,8 @@
 #define OBJ_EVENT_GFX_RIVAL_LYRA_SURFING          300
 #define OBJ_EVENT_GFX_RIVAL_LYRA_FIELD_MOVE       301
 #define OBJ_EVENT_GFX_LINK_LYRA                   302
-
-
-
+#define OBJ_EVENT_GFX_ROCKET_F                    303
+#define OBJ_EVENT_GFX_ROCKET_M                    304
 
 // NOTE: By default, the max value for NUM_OBJ_EVENT_GFX is 239.
 //
@@ -317,7 +316,7 @@
 // object graphics that can be removed. If more graphics are needed, anything that
 // stores graphics ids will need to be increased in size. See wiki entry below:
 // https://github.com/pret/pokeemerald/wiki/Feature-Branches#overworld-expansion
-#define NUM_OBJ_EVENT_GFX                         303
+#define NUM_OBJ_EVENT_GFX                         305
 
 
 // These are dynamic object gfx ids.

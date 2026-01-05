@@ -308,6 +308,8 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RivalLyraAc
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RivalLyraSurfing;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RivalLyraFieldMove;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_LinkLyra;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RocketF;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RocketM;
 
 const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM_OBJ_EVENT_GFX] = {
     [OBJ_EVENT_GFX_BRENDAN_NORMAL] =           &gObjectEventGraphicsInfo_BrendanNormal,
@@ -613,6 +615,8 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_RIVAL_LYRA_SURFING] =        &gObjectEventGraphicsInfo_RivalLyraSurfing,
     [OBJ_EVENT_GFX_RIVAL_LYRA_FIELD_MOVE] =     &gObjectEventGraphicsInfo_RivalLyraFieldMove,
     [OBJ_EVENT_GFX_LINK_LYRA] =                 &gObjectEventGraphicsInfo_LinkLyra,
+    [OBJ_EVENT_GFX_ROCKET_F] =                  &gObjectEventGraphicsInfo_RocketF,
+    [OBJ_EVENT_GFX_ROCKET_M] =                  &gObjectEventGraphicsInfo_RocketM,
 };
 
 const struct ObjectEventGraphicsInfo *const gMauvilleOldManGraphicsInfoPointers[] = {

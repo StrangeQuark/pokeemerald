@@ -409,3 +409,5 @@ const u32 gObjectEventPic_LyraFishing[] = INCBIN_U32("graphics/object_events/pic
 const u32 gObjectEventPic_LyraWatering[] = INCBIN_U32("graphics/object_events/pics/people/lyra/watering.4bpp");
 const u32 gObjectEventPic_LyraDecorating[] = INCBIN_U32("graphics/object_events/pics/people/lyra/decorating.4bpp");
 const u32 gObjectEventPic_LyraUnderwater[] = INCBIN_U32("graphics/object_events/pics/people/lyra/underwater.4bpp");
+const u32 gObjectEventPic_RocketF[] = INCBIN_U32("graphics/object_events/pics/people/rocket_f.4bpp");
+const u32 gObjectEventPic_RocketM[] = INCBIN_U32("graphics/object_events/pics/people/rocket_m.4bpp");
