@@ -8,6 +8,18 @@ Common_EventScript_SetGymTrainers::
 	case 6, FortreeCity_Gym_SetGymTrainers
 	case 7, MossdeepCity_Gym_SetGymTrainers
 	case 8, SootopolisCity_Gym_SetGymTrainers
+	case 9, PewterCity_Gym_SetGymTrainers
+	case 10, VermilionCity_Gym_SetGymTrainers
+	case 11, CeladonCity_Gym_SetGymTrainers
+	case 12, FuchsiaCity_Gym_SetGymTrainers
+	case 13, CeruleanCity_Gym_SetGymTrainers
+	case 14, SaffronCity_Gym_SetGymTrainers
+	case 15, VioletCity_Gym_SetGymTrainers
+	case 16, EcruteakCity_Gym_SetGymTrainers
+	case 17, OlivineCity_Gym_SetGymTrainers
+	case 18, CianwoodCity_Gym_SetGymTrainers
+	case 19, GoldenrodCity_Gym_SetGymTrainers
+	case 20, BlackthornCity_Gym_SetGymTrainers
 	end
 
 RustboroCity_Gym_SetGymTrainers::
@@ -89,4 +101,119 @@ SootopolisCity_Gym_SetGymTrainers::
 	settrainerflag TRAINER_BETHANY
 	settrainerflag TRAINER_ANNIKA
 	settrainerflag TRAINER_DAPHNE
+	return
+
+PewterCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_PEWTER_RUSSELL
+	settrainerflag TRAINER_GYM_PEWTER_MASON
+	settrainerflag TRAINER_GYM_PEWTER_ELI
+	return
+
+VermilionCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_VERMILION_AMOS
+	settrainerflag TRAINER_GYM_VERMILION_CYRUS
+	settrainerflag TRAINER_GYM_VERMILION_GIDEON
+	settrainerflag TRAINER_GYM_VERMILION_ORSON
+	settrainerflag TRAINER_GYM_VERMILION_REID
+	return
+
+CeladonCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_CELADON_LILA
+	settrainerflag TRAINER_GYM_CELADON_DAPHNE
+	settrainerflag TRAINER_GYM_CELADON_MIRA
+	settrainerflag TRAINER_GYM_CELADON_SAGE
+	settrainerflag TRAINER_GYM_CELADON_IVY
+	settrainerflag TRAINER_GYM_CELADON_HELENA
+	settrainerflag TRAINER_GYM_CELADON_WILLOW
+	settrainerflag TRAINER_GYM_CELADON_TESSA
+	return
+
+FuchsiaCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_FUCHSIA_VEDA
+	settrainerflag TRAINER_GYM_FUCHSIA_KIRI
+	settrainerflag TRAINER_GYM_FUCHSIA_SORREL
+	settrainerflag TRAINER_GYM_FUCHSIA_DORIAN
+	settrainerflag TRAINER_GYM_FUCHSIA_PAX
+	settrainerflag TRAINER_GYM_FUCHSIA_RYU
+	settrainerflag TRAINER_GYM_FUCHSIA_SILAS
+	return
+
+CeruleanCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_CERULEAN_MARINA
+	settrainerflag TRAINER_GYM_CERULEAN_FINN
+	settrainerflag TRAINER_GYM_CERULEAN_KELLAN
+	settrainerflag TRAINER_GYM_CERULEAN_BOYD
+	settrainerflag TRAINER_GYM_CERULEAN_LUCA
+	settrainerflag TRAINER_GYM_CERULEAN_NIXIE
+	return
+
+SaffronCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_SAFFRON_NIKO_VIVI
+	settrainerflag TRAINER_GYM_SAFFRON_ANSEL
+	settrainerflag TRAINER_GYM_SAFFRON_IRENE_OWEN
+	settrainerflag TRAINER_GYM_SAFFRON_VERA
+	settrainerflag TRAINER_GYM_SAFFRON_QUENTIN
+	settrainerflag TRAINER_GYM_SAFFRON_NIA_SAUL
+	settrainerflag TRAINER_GYM_SAFFRON_FELIX_COR
+	return
+
+VioletCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_VIOLET_NED
+	settrainerflag TRAINER_GYM_VIOLET_PIP
+	settrainerflag TRAINER_GYM_VIOLET_BRIA
+	settrainerflag TRAINER_GYM_VIOLET_MOSS
+	return
+
+EcruteakCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_1
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_2
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_3
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_4
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_5
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_6
+	settrainerflag TRAINER_GYM_ECRUTEAK_GALEN_7
+	return
+
+OlivineCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_OLIVINE_SABLE
+	settrainerflag TRAINER_GYM_OLIVINE_PERCIVAL
+	settrainerflag TRAINER_GYM_OLIVINE_MYRA
+	settrainerflag TRAINER_GYM_OLIVINE_GARRICK
+	settrainerflag TRAINER_GYM_OLIVINE_ADEL_LINN
+	return
+
+CianwoodCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_CIANWOOD_BAIRD
+	settrainerflag TRAINER_GYM_CIANWOOD_KNOX
+	settrainerflag TRAINER_GYM_CIANWOOD_KENTO
+	settrainerflag TRAINER_GYM_CIANWOOD_MARIS
+	settrainerflag TRAINER_GYM_CIANWOOD_DAX
+	return
+
+GoldenrodCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_GOLDENROD_TAMSIN
+	settrainerflag TRAINER_GYM_GOLDENROD_ELARA
+	settrainerflag TRAINER_GYM_GOLDENROD_CATO
+	settrainerflag TRAINER_GYM_GOLDENROD_REN
+	settrainerflag TRAINER_GYM_GOLDENROD_VOLKER
+	settrainerflag TRAINER_GYM_GOLDENROD_NOLA
+	settrainerflag TRAINER_GYM_GOLDENROD_FLYNN
+	settrainerflag TRAINER_GYM_GOLDENROD_MABEL
+	settrainerflag TRAINER_GYM_GOLDENROD_ARVID
+	settrainerflag TRAINER_GYM_GOLDENROD_SELENE
+	settrainerflag TRAINER_GYM_GOLDENROD_IVO
+	return
+
+BlackthornCity_Gym_SetGymTrainers::
+	settrainerflag TRAINER_GYM_BLACKTHORN_GORO
+	settrainerflag TRAINER_GYM_BLACKTHORN_ELDON
+	settrainerflag TRAINER_GYM_BLACKTHORN_ALINA
+	settrainerflag TRAINER_GYM_BLACKTHORN_PETRA
+	settrainerflag TRAINER_GYM_BLACKTHORN_MAGNUS
+	settrainerflag TRAINER_GYM_BLACKTHORN_CELESTE
+	settrainerflag TRAINER_GYM_BLACKTHORN_RHEA
+	settrainerflag TRAINER_GYM_BLACKTHORN_TORIN
+	settrainerflag TRAINER_GYM_BLACKTHORN_DELLA
+	settrainerflag TRAINER_GYM_BLACKTHORN_VANCE
+	settrainerflag TRAINER_GYM_BLACKTHORN_IDRIS
 	return

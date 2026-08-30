@@ -24,7 +24,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "EcruteakCity_Gym_EventScript_Morty",
       "flag": "0"
     },
     {
@@ -37,7 +37,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "EcruteakCity_Gym_EventScript_GalenIdle",
       "flag": "0"
     },
     {
@@ -63,209 +63,6 @@
       "dest_warp_id": "12"
     },
     {
-      "x": 2,
-      "y": 5,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 4,
-      "y": 5,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 5,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 5,
-      "y": 6,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 4,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 5,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 6,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 7,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 8,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 2,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 5,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 6,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 7,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 3,
-      "y": 10,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 2,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 5,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 6,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 3,
-      "y": 12,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 12,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 4,
-      "y": 13,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 5,
-      "y": 13,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 6,
-      "y": 13,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 13,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 3,
-      "y": 14,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 8,
-      "y": 14,
-      "elevation": 0,
-      "dest_map": "MAP_ECRUTEAK_CITY_GYM",
-      "dest_warp_id": "0"
-    },
-    {
       "x": 5,
       "y": 18,
       "elevation": 0,
@@ -274,7 +71,267 @@
     }
   ],
   "coord_events": [
-
+    {
+      "type": "trigger",
+      "x": 2,
+      "y": 5,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 3,
+      "y": 5,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 4,
+      "y": 5,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 5,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 6,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 2,
+      "y": 7,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 4,
+      "y": 7,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 7,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 7,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 7,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 8,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 2,
+      "y": 9,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 9,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 9,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 7,
+      "y": 9,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 9,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 3,
+      "y": 10,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 2,
+      "y": 11,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 11,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 11,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 11,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 3,
+      "y": 12,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 12,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 4,
+      "y": 13,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 13,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 13,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 13,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 3,
+      "y": 14,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 14,
+      "elevation": 0,
+      "var": "TRIGGER_RUN_IMMEDIATELY",
+      "var_value": "0",
+      "script": "EcruteakCity_Gym_EventScript_GalenTrialWarp"
+    }
   ],
   "bg_events": [
     {

@@ -95,9 +95,9 @@
 #define VAR_POKELOT_RND1                                 0x404B
 #define VAR_POKELOT_RND2                                 0x404C
 #define VAR_POKELOT_PRIZE_PLACE                          0x404D
-#define VAR_UNUSED_0x404E                                0x404E // Unused Var
-#define VAR_LOTAD_SIZE_RECORD                            0x404F
-#define VAR_UNUSED_0X4050                                0x4050
+#define VAR_ECRUTEAK_GYM_GALEN_ROUND                     0x404E
+#define VAR_ECRUTEAK_GYM_GALEN_TRIAL_STATE               0x404F
+#define VAR_LOTAD_SIZE_RECORD                            0x4050
 #define VAR_UNUSED_0x4051                                0x4051
 #define VAR_DEWFORD_TOWN_STATE                           0x4052 // Unused Var
 #define VAR_LAVARIDGE_TOWN_STATE                         0x4053

@@ -24,7 +24,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_GymLeader",
+      "script": "OlivineCity_Gym_EventScript_Jasmine",
       "flag": "0"
     },
     {
@@ -37,7 +37,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T5",
+      "script": "OlivineCity_Gym_EventScript_AdelLinn",
       "flag": "0"
     },
     {
@@ -50,7 +50,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T5",
+      "script": "OlivineCity_Gym_EventScript_AdelLinn",
       "flag": "0"
     },
     {
@@ -63,46 +63,46 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T4",
+      "script": "OlivineCity_Gym_EventScript_Garrick",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_1",
-      "x": 15,
-      "y": 12,
+      "x": 19,
+      "y": 14,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
+      "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T3",
+      "script": "OlivineCity_Gym_EventScript_Myra",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_3",
-      "x": 14,
-      "y": 5,
+      "x": 16,
+      "y": 7,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T2",
+      "script": "OlivineCity_Gym_EventScript_Percival",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_4",
-      "x": 24,
-      "y": 12,
+      "x": 25,
+      "y": 10,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "OlivineCity_Gym_EventScript_T1",
+      "script": "OlivineCity_Gym_EventScript_Sable",
       "flag": "0"
     },
     {
