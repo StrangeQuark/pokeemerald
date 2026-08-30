@@ -105,6 +105,12 @@ const struct MonCoords gTrainerFrontPicCoords[] =
     [TRAINER_PIC_LEADER_ERIKA] = {.size = 8, .y_offset = 1},
     [TRAINER_PIC_LEADER_BROCK] = {.size = 8, .y_offset = 1},
     [TRAINER_PIC_LEADER_BLAINE] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_CLAIR] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_CHUCK] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_JASMINE] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_MORTY] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_FALKNER] = {.size = 8, .y_offset = 1},
+    [TRAINER_PIC_LEADER_BUGSY] = {.size = 8, .y_offset = 1},
 };
 
 #define TRAINER_SPRITE(trainerPic, sprite, size) [TRAINER_PIC_##trainerPic] = {sprite, size, TRAINER_PIC_##trainerPic}
@@ -216,6 +222,12 @@ const struct CompressedSpriteSheet gTrainerFrontPicTable[] =
     TRAINER_SPRITE(LEADER_ERIKA, gTrainerFrontPic_LeaderErika, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_BROCK, gTrainerFrontPic_LeaderBrock, TRAINER_PIC_SIZE),
     TRAINER_SPRITE(LEADER_BLAINE, gTrainerFrontPic_LeaderBlaine, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_CLAIR, gTrainerFrontPic_LeaderClair, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_CHUCK, gTrainerFrontPic_LeaderChuck, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_JASMINE, gTrainerFrontPic_LeaderJasmine, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_MORTY, gTrainerFrontPic_LeaderMorty, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_FALKNER, gTrainerFrontPic_LeaderFalkner, TRAINER_PIC_SIZE),
+    TRAINER_SPRITE(LEADER_BUGSY, gTrainerFrontPic_LeaderBugsy, TRAINER_PIC_SIZE),
 };
 
 #define TRAINER_PAL(trainerPic, pal) [TRAINER_PIC_##trainerPic] = {pal, TRAINER_PIC_##trainerPic}
@@ -327,4 +339,10 @@ const struct CompressedSpritePalette gTrainerFrontPicPaletteTable[] =
     TRAINER_PAL(LEADER_ERIKA, gTrainerPalette_LeaderErika),
     TRAINER_PAL(LEADER_BROCK, gTrainerPalette_LeaderBrock),
     TRAINER_PAL(LEADER_BLAINE, gTrainerPalette_LeaderBlaine),
+    TRAINER_PAL(LEADER_CLAIR, gTrainerPalette_LeaderClair),
+    TRAINER_PAL(LEADER_CHUCK, gTrainerPalette_LeaderChuck),
+    TRAINER_PAL(LEADER_JASMINE, gTrainerPalette_LeaderJasmine),
+    TRAINER_PAL(LEADER_MORTY, gTrainerPalette_LeaderMorty),
+    TRAINER_PAL(LEADER_FALKNER, gTrainerPalette_LeaderFalkner),
+    TRAINER_PAL(LEADER_BUGSY, gTrainerPalette_LeaderBugsy),
 };

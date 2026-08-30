@@ -121,6 +121,12 @@
 #define TRAINER_PIC_LEADER_ERIKA         102
 #define TRAINER_PIC_LEADER_BROCK         103
 #define TRAINER_PIC_LEADER_BLAINE        104
+#define TRAINER_PIC_LEADER_CLAIR         105
+#define TRAINER_PIC_LEADER_CHUCK         106
+#define TRAINER_PIC_LEADER_JASMINE       107
+#define TRAINER_PIC_LEADER_MORTY         108
+#define TRAINER_PIC_LEADER_FALKNER       109
+#define TRAINER_PIC_LEADER_BUGSY         110
 
 // The player back pics are assumed to alternate according to the gender values (MALE/FEMALE)
 #define TRAINER_BACK_PIC_BRENDAN                0

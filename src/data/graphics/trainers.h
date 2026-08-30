@@ -329,3 +329,21 @@ const u32 gTrainerPalette_LeaderBrock[] = INCBIN_U32("graphics/trainers/front_pi
 
 const u32 gTrainerFrontPic_LeaderBlaine[] = INCBIN_U32("graphics/trainers/front_pics/leader_blaine.4bpp.lz");
 const u32 gTrainerPalette_LeaderBlaine[] = INCBIN_U32("graphics/trainers/front_pics/leader_blaine.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderClair[] = INCBIN_U32("graphics/trainers/front_pics/leader_clair.4bpp.lz");
+const u32 gTrainerPalette_LeaderClair[] = INCBIN_U32("graphics/trainers/front_pics/leader_clair.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderChuck[] = INCBIN_U32("graphics/trainers/front_pics/leader_chuck.4bpp.lz");
+const u32 gTrainerPalette_LeaderChuck[] = INCBIN_U32("graphics/trainers/front_pics/leader_chuck.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderJasmine[] = INCBIN_U32("graphics/trainers/front_pics/leader_jasmine.4bpp.lz");
+const u32 gTrainerPalette_LeaderJasmine[] = INCBIN_U32("graphics/trainers/front_pics/leader_jasmine.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderMorty[] = INCBIN_U32("graphics/trainers/front_pics/leader_morty.4bpp.lz");
+const u32 gTrainerPalette_LeaderMorty[] = INCBIN_U32("graphics/trainers/front_pics/leader_morty.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderFalkner[] = INCBIN_U32("graphics/trainers/front_pics/leader_falkner.4bpp.lz");
+const u32 gTrainerPalette_LeaderFalkner[] = INCBIN_U32("graphics/trainers/front_pics/leader_falkner.gbapal.lz");
+
+const u32 gTrainerFrontPic_LeaderBugsy[] = INCBIN_U32("graphics/trainers/front_pics/leader_bugsy.4bpp.lz");
+const u32 gTrainerPalette_LeaderBugsy[] = INCBIN_U32("graphics/trainers/front_pics/leader_bugsy.gbapal.lz");
